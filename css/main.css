@@ -74,6 +74,7 @@ blockquote footer {
 h2 {
   font-family: "PT Sans", sans-serif;
   font-style: normal;
+  font-weight: normal;
   font-size: 1.25rem;
   color: #3f1622;
 }
@@ -95,6 +96,10 @@ h2 dl, dt {
   font-weight: bold;
   font-size: .8rem;
   color: #222;
+}
+
+h2 p {
+  font-style: italic;
 }
 
 h2 dl, dd {
