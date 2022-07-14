@@ -7,10 +7,10 @@ html {
 }
 
 h1 {
-  font-family: "PT", sans-serif ;
-  font-style: bold ;
+  font-family: PT, sans-serif ;
+  font-weight: bold ;
 }
 
 nav {
-  font-family: "PT", serif ;
+  font-family: PT, serif ;
 }
