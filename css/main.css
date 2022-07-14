@@ -14,12 +14,12 @@ h1 {
   line-height: 1.5;
 }
 
-nav ol, li {
+nav ol {
   font-family: "PT Sans", sans-serif;
+  list-style-type: none;
   font-weight: bold;
   font-size: 1.25rem;
   color: #8f2440;
-  list-style-type: none;
 }
 
 a {
@@ -77,11 +77,11 @@ h2 {
   color: #3f1622;
 }
 
-h2, p {
+h2 p {
   font-style: italic;
 }
 
-h2 ol:first-of-type, li {
+ol.varieties {
   font-family: "PT Serif", serif;
   font-weight: normal;
   list-style-type: lower-greek;
@@ -102,7 +102,7 @@ h2 dl, dd {
   color: #222;
 }
 
-aside, h2 ol, li {
+ul.varieties {
   font-family: "PT Serif", serif;
   font-weight: normal;
   font-size: .8rem;
