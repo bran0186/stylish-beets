@@ -8,10 +8,9 @@ html {
 }
 
 h1 {
-  font-family: Georgia, sans-serif ;
-  font-weight: bold ;
+  font-family: 'PT Sans', sans-serif;
 }
 
 nav {
-  font-family: Georgia, serif ;
+  font-family: PT + serif ;
 }
