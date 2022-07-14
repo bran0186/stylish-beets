@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: #c9b5ab ;
 }
 
 *, *::before, *::after {
@@ -7,10 +8,10 @@ html {
 }
 
 h1 {
-  font-family: sans-serif ;
+  font-family: Georgia, sans-serif ;
   font-weight: bold ;
 }
 
 nav {
-  font-family: serif ;
+  font-family: Georgia, serif ;
 }
