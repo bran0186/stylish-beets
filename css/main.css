@@ -11,6 +11,11 @@ h1 {
   font-family: 'PT Sans', sans-serif;
 }
 
-nav {
-  font-family: PT + serif ;
+nav ol > li {
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440 ;
+}
+
+p {
+font-family: 'PT Serif', serif;
 }
