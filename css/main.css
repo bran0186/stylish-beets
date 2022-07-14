@@ -40,7 +40,7 @@ img {
 figcaption {
   font-family: "PT Serif", serif;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
   text-align: center;
   line-height: 1.5;
@@ -49,7 +49,7 @@ figcaption {
 p {
   font-family: "PT Serif", serif;
   font-weight: normal;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
   line-height: 1.5;
 }
@@ -70,7 +70,7 @@ blockquote.quote {
 
 blockquote footer {
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
@@ -86,7 +86,7 @@ ol.varieties {
   font-family: "PT Serif", serif;
   font-weight: normal;
   list-style-type: lower-greek;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
@@ -97,20 +97,20 @@ h2 p {
 h2 dl, dt {
   font-family: "PT Serif", serif;
   font-weight: bold;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
 h2 dl, dd {
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
 ul.varieties {
   font-family: "PT Serif", serif;
   font-weight: normal;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
   list-style-type: circle;
 }
