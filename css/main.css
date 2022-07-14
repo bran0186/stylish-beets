@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "PT", sans-serif ;
+  font-style: bold ;
+}
+
+nav {
+  font-family: "PT", serif ;
+}
