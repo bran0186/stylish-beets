@@ -20,11 +20,13 @@ nav ol {
   font-weight: normal;
   font-size: 1.125rem;
   color: #8f2440;
+  line-height: 1.5;
 }
 
 a {
   color: #8f2440;
   text-decoration: none;
+  line-height: 1.5;
 }
 
 a:hover {
@@ -43,20 +45,21 @@ figcaption {
   font-size: 1.125rem;
   color: #222;
   text-align: center;
-  line-height: 1.5;
+  font-weight: normal;
 }
 
 p {
   font-family: "PT Serif", serif;
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 1.125rem;
   color: #222;
   line-height: 1.5;
 }
 
 p:first-of-type {
-  font-weight: bold;
+  font-weight: lighter;
   font-size: 1.125rem;
+  line-height: 1.5;
 }
 
 blockquote.quote {
@@ -72,6 +75,7 @@ blockquote footer {
   font-family: "PT Serif", serif;
   font-size: .8rem;
   color: #222;
+  line-height: 1.5;
 }
 
 h2 {
@@ -80,6 +84,7 @@ h2 {
   font-weight: normal;
   font-size: 1.125rem;
   color: #3f1622;
+  line-height: 1.5;
 }
 
 ol.varieties {
@@ -88,10 +93,12 @@ ol.varieties {
   list-style-type: lower-greek;
   font-size: .8rem;
   color: #222;
+  line-height: 1.5;
 }
 
 h2 p {
   font-style: italic;
+  line-height: 1.5;
 }
 
 h2 dl, dt {
@@ -99,12 +106,14 @@ h2 dl, dt {
   font-weight: bold;
   font-size: .8rem;
   color: #222;
+  line-height: 1.5;
 }
 
 h2 dl, dd {
   font-family: "PT Serif", serif;
   font-size: .8rem;
   color: #222;
+  line-height: 1.5;
 }
 
 ul.varieties {
@@ -113,4 +122,5 @@ ul.varieties {
   font-size: .8rem;
   color: #222;
   list-style-type: circle;
+  line-height: 1.5;
 }
